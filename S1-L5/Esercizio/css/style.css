@@ -1,0 +1,124 @@
+/* Your styles here */
+
+
+
+* { font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+html { margin: 0 auto;
+    width: 450px;
+    font-size: 1em;
+    text-align: center;
+    font-size:1.2rem; 
+    
+    
+}
+.container{margin: 0 auto;
+   
+} 
+body{ font-family: 'Open Sans', sans-serif;
+    line-height: 1.5em;
+} 
+header{background-color: black;
+    width: 450px;
+   
+} 
+header img{width: 50%;
+    padding-top: 8px;
+   
+} 
+#box1{ 
+    padding: 50px;     
+    background-image: url(../images/banner.jpg);
+    background-size: contain;
+    width:450px;
+} 
+#box1 h1{      
+    font-size: 2rem;
+    color: #98BAD0;
+    font: bolder;
+    padding-bottom: 20px;
+}
+button{     background-color:#D65B40; 
+   color: white;
+}  
+article{  font-family: 'Open Sans', sans-serif;
+
+}
+article div {    padding: 20px;
+ } 
+
+
+ 
+ article img{  padding: 10px;
+    width: 300px
+    ;
+     border-radius: 100%;
+    margin: auto;
+ } 
+
+ #test {  color: white;
+    background-color: #D65B40;
+    padding-top: 80px;
+    padding-bottom: 80px;
+     width: 450px;
+     
+
+ } 
+
+ section div h2 {  color: white;
+    font-size: 1.8rem; font: bolder; 
+    padding-bottom: 10px;
+
+ } 
+ section p {  
+    padding-top: 10px;
+
+ } 
+
+figure{  border:1px;
+     border:#dee1e3 ;
+     border-style: solid;
+     border-bottom-left-radius: 15px;
+     border-bottom-right-radius: 15px;
+     
+
+ } 
+ 
+
+ .title{    font: bold  ; 
+    color:#5099C6;
+  } 
+ h3{    font: bold  ; 
+    color:#5099C6;
+  } 
+
+
+    
+
+img{ width: 450px;
+
+} 
+#contatti { font-size: large;
+
+} 
+footer{background-color: #5099C6;
+    color: white;
+    width: 450px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+} 
+footer a {color: white;
+    text-decoration: none;
+    
+} 
+#copy{  
+    border-top: #98BAD0;
+    border-style: solid;
+    border-top-width: 1px;
+    padding-top: 5px;
+    
+
+} 
+
